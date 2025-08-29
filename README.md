@@ -1,4 +1,4 @@
-# 🐟 Fish Species Identification (Bangladesh)
+#  Fish Species Identification (Bangladesh)
 
 This project presents a deep learning solution for identifying **20 common fish species** found in local markets across Bangladesh. Using high-resolution smartphone images collected from these markets, we trained and evaluated CNN-based models such as **ResNet** for multi-class fish classification.
 
